@@ -27,6 +27,11 @@ You can click the Preview link to take a look at your changes.
 - 📫 Reach me at: [punit9705@gmail.com](mailto:punit9705@gmail.com)
 
 ---
+##
+![](https://komarev.com/ghpvc/?username=punitsharma32112&color=purple)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=punitsharma32112&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="Punit Sharma's activity graph">
+    
 
 ## 🛠️ Tech Stack
 
